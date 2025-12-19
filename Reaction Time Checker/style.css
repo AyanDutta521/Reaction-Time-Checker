@@ -1,0 +1,25 @@
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mainBody{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.signal{
+    background-color: black;
+    padding: 80px;
+    
+    border-radius: 50%;
+}
+
+button{
+    height: 60px;
+    width: 100px;
+}
